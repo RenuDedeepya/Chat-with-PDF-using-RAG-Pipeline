@@ -1,0 +1,4 @@
+fitz==1.19.6  # PyMuPDF for PDF handling
+sentence-transformers==2.2.2  # For generating sentence embeddings
+faiss-cpu==1.7.1  # FAISS for efficient similarity search (CPU version)
+numpy==1.21.6  # NumPy for numerical operations
